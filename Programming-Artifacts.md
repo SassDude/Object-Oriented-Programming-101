@@ -15,7 +15,7 @@ An example of this would be we have Phone, Light and a  Router class, all of the
 ### Class
 A blueprint about the capability of an object that can create many instances of the same kind of object. This includes locals functions as wells as local data. They can be useful as they allow multiple different objects to be created, all of which share the same requirements.
 
-For example a class would be a Human which would contain properties for age, height, gender and there would also be a method called `GetAge()`.
+For example, a class would be a Human which would contain properties for age, height, gender and there would also be a method called `GetAge()`.
 
 ### Objects
 Objects are instances of a data structure defined by a class and a working entity of the class.
@@ -29,4 +29,3 @@ An Instance variable belonging to an object as each object is an instance of a c
 Fields are attributes that store a data value. 
 * Static - native to the class itself and hence is shared amongst all instances of that class.
 * Instance - every object created and only changed depending on each object
-

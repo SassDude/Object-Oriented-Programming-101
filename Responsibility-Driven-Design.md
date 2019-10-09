@@ -1,5 +1,5 @@
 ### Role
-A role is a refrefect to an objects function. This can be made use of in its collaborations with other roles.
+A role is a reference to an object's function. This can be made use of in its collaborations with other roles.
 
 ### Responsibility
 All elements in a single module should have responsibility for its own part of the functionality.

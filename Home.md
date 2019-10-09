@@ -1,3 +1,5 @@
+Welcome to the object-oriented programming wiki!
+
 Object Orectect Programming is the practice of grouping a set of related variables and functions into an object
 
 ### [Principles](Principles )

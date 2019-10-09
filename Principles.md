@@ -11,9 +11,9 @@ For example, all shape classes inherit from the shape abstract and are defined a
 ### Abstraction
 Abstraction is something that is only an idea and can only be expressed as an expression. There are no definitions to it as to hide the implementation details while just presenting the features. It shows information on what the object does instead of how it does it. The reasons for using abstraction is that reduces code complexing and only shows the essential parts.
 
-An example of this is the clock just knows the counters that counts hours, minutes and seconds and can only read the value and pass them the information to either reset or increment.
+An example of this is the clock just knows the counters that counts time and can only read the value and pass them the information to either reset or increment.
 
 ### Encapsulation
-Encapsulation restricts access to some of an objects components. Data members only accessed through getters and setters if they are private.
+Encapsulation restricts access to some of an object's components. Data members-only accessed through getters and setters if they are private.
 
 For example, the clock cannot function without the counters to track the time.
